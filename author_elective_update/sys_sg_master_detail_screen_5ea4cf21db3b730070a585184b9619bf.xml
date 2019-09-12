@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="NeedIt - Last Quarter">066f2cd1db7b330070a585184b9619b6</data_item>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="comments">b3a8cba1db3b730070a585184b961985</icon>
+        <name>NeedIt Last Quarter</name>
+        <order>10</order>
+        <parent>6316c7a1db3b730070a585184b96195b</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-10 06:52:52</sys_created_on>
+        <sys_id>5ea4cf21db3b730070a585184b9619bf</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>NeedIt Last Quarter</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_5ea4cf21db3b730070a585184b9619bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-10 07:28:28</sys_updated_on>
+    </sys_sg_master_detail_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=5ea4cf21db3b730070a585184b9619bf"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>22de6170dbcad3c83353f22ebf96197b</instance_id>
+        <instance_name>dev58959</instance_name>
+        <name>sys_sg_master_detail_screen_5ea4cf21db3b730070a585184b9619bf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen"><sys_sg_master_detail_screen action="DELETE"><application_roles/><available_offline>false</available_offline><data_item display_value="NeedIt - Last Quarter">066f2cd1db7b330070a585184b9619b6</data_item><description/><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><icon display_value="comments">b3a8cba1db3b730070a585184b961985</icon><name>NeedIt Last Quarter</name><order>10</order><parent>6316c7a1db3b730070a585184b96195b</parent><parent_table>sys_sg_folder</parent_table><roles_override/><sys_class_name>sys_sg_master_detail_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 06:52:52</sys_created_on><sys_id>5ea4cf21db3b730070a585184b9619bf</sys_id><sys_mod_count>6</sys_mod_count><sys_name>NeedIt Last Quarter</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_master_detail_screen_5ea4cf21db3b730070a585184b9619bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:28:28</sys_updated_on></sys_sg_master_detail_screen><sys_translated_text action="delete_multiple" query="documentkey=5ea4cf21db3b730070a585184b9619bf"/></record_update>]]></payload>
+        <payload_hash>-1176767504</payload_hash>
+        <record_name>NeedIt Last Quarter</record_name>
+        <reverted_from/>
+        <source>76db9d3074e0330078509adcc48c8754</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-12 01:07:59</sys_created_on>
+        <sys_id>f1e84c56dbbf330070a585184b9619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d230343b60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-12 01:07:59</sys_updated_on>
+        <type>Master-detail screen</type>
+        <update_guid>7de84c56e2bf330044a9c0359df707d5</update_guid>
+        <update_guid_history>7de84c56e2bf330044a9c0359df707d5:-1176767504,33cccba5363b7300f2cbb69a176ea912:-1171979772,48b8cba1b43b73003868969ba26e4566:-354084411,02460ba1cf3b73007ffd7ec1c22a6ff5:1292359582,712647a1053b7300a4844528c9448c39:474464221,12a4cf21b13b73000ff86612da06a1c2:914877414</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-12 01:07:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_master_detail_screen">sys_sg_master_detail_screen</sys_db_object>
+        <sys_id>b98128c038dc4fb2b00a1fd67fc70cb9</sys_id>
+        <sys_metadata>5ea4cf21db3b730070a585184b9619bf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Last Quarter</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_master_detail_screen_5ea4cf21db3b730070a585184b9619bf</sys_update_name>
+        <sys_update_version display_value="sys_sg_master_detail_screen_5ea4cf21db3b730070a585184b9619bf">f1e84c56dbbf330070a585184b9619d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-12 01:07:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

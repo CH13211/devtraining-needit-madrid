@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon/>
+        <item_view display_value="NeedIt Next Quarter detail item view">5bc5c3a1db3b730070a585184b961950</item_view>
+        <name>Master Item</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-12 01:07:59</sys_created_on>
+        <sys_id>fde84c56dbbf330070a585184b9619e3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_form_screen_fde84c56dbbf330070a585184b9619e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-12 01:07:59</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fde84c56dbbf330070a585184b9619e3"/>
+</record_update>
